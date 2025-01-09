@@ -1,29 +1,75 @@
-[19:16:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:16:49] [ServerMain/INFO]: Loaded 1370 recipes
-[19:16:49] [ServerMain/INFO]: Loaded 1481 advancements
-[19:16:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:16:49] [Server thread/INFO]: Loading properties
-[19:16:49] [Server thread/INFO]: Default game type: SURVIVAL
-[19:16:49] [Server thread/INFO]: Generating keypair
-[19:16:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:16:49] [Server thread/INFO]: Using default channel type
-[19:16:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:16:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:16:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:16:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:16:49] [Server thread/INFO]: Preparing level "world"
-[19:16:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:16:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:16:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:16:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:16:50] [Server thread/INFO]: Time elapsed: 1029 ms
-[19:16:50] [Server thread/INFO]: Done (1.123s)! For help, type "help"
-[19:17:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:18:15] [Server thread/INFO]: nuzhxt[/127.0.0.1:53506] logged in with entity id 8 at (8.5, 65.0, -0.5)
-[19:18:15] [Server thread/INFO]: nuzhxt joined the game
-[19:23:37] [Server thread/INFO]: nuzhxt was doomed to fall by Pillager
-[19:24:56] [Server thread/INFO]: nuzhxt lost connection: Disconnected
-[19:24:56] [Server thread/INFO]: nuzhxt left the game
-[19:25:00] [Server thread/INFO]: nuzhxt[/127.0.0.1:53551] logged in with entity id 1558 at (5.5, 66.0, 9.5)
-[19:25:00] [Server thread/INFO]: nuzhxt joined the game
-[19:27:41] [Server thread/INFO]: nuzhxt was shot by Pillager
+[14:53:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:53:04] [ServerMain/INFO]: Loaded 1370 recipes
+[14:53:05] [ServerMain/INFO]: Loaded 1481 advancements
+[14:53:05] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[14:53:05] [Server thread/INFO]: Loading properties
+[14:53:05] [Server thread/INFO]: Default game type: CREATIVE
+[14:53:05] [Server thread/INFO]: Generating keypair
+[14:53:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:53:05] [Server thread/INFO]: Using epoll channel type
+[14:53:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:53:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:53:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:53:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:53:05] [Server thread/INFO]: Preparing level "world"
+[14:53:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:53:15] [Server thread/INFO]: Time elapsed: 9728 ms
+[14:53:15] [Server thread/INFO]: Done (10.109s)! For help, type "help"
+[14:53:17] [Server thread/INFO]: nuzhxt[/104.28.201.88:42813] logged in with entity id 50 at (89.79833393959804, 68.0, -57.157525135738375)
+[14:53:17] [Server thread/INFO]: nuzhxt joined the game
+[14:53:19] [Server thread/INFO]: RamaSai2519[/104.28.201.87:51455] logged in with entity id 133 at (23.17136733843292, 69.0, 4.9542083090452085)
+[14:53:19] [Server thread/INFO]: RamaSai2519 joined the game
+[14:55:43] [Server thread/INFO]: RamaSai2519 fell out of the world
+[14:55:50] [Server thread/WARN]: nuzhxt moved too quickly! 6.426311517960073,1.0,-7.612700328566959
+[14:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2993ms or 59 ticks behind
+[14:58:33] [Server thread/INFO]: nuzhxt lost connection: Disconnected
+[14:58:33] [Server thread/INFO]: nuzhxt left the game
+[14:58:36] [Server thread/INFO]: nuzhxt[/104.28.201.87:14282] logged in with entity id 1050 at (-0.2767885809612565, 67.0, -219.89407466323547)
+[14:58:36] [Server thread/INFO]: nuzhxt joined the game
+[14:58:38] [Server thread/INFO]: nuzhxt lost connection: Disconnected
+[14:58:38] [Server thread/INFO]: nuzhxt left the game
+[14:58:54] [Server thread/WARN]: RamaSai2519 moved too quickly! -1.3075134075048993,0.0,-9.93359388148042
+[14:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3392ms or 67 ticks behind
+[14:59:20] [Server thread/INFO]: nuzhxt[/104.28.201.87:56413] logged in with entity id 1318 at (-0.2767885809612565, 67.0, -219.89407466323547)
+[14:59:20] [Server thread/INFO]: nuzhxt joined the game
+[15:11:04] [Server thread/INFO]: nuzhxt lost connection: Disconnected
+[15:11:04] [Server thread/INFO]: nuzhxt left the game
+[15:11:42] [Server thread/INFO]: RamaSai2519 lost connection: Disconnected
+[15:11:42] [Server thread/INFO]: RamaSai2519 left the game
+[15:11:47] [Server thread/INFO]: nuzhxt[/104.28.201.87:22068] logged in with entity id 4855 at (2.191866686176623, 116.11813608470581, -152.9475142263938)
+[15:11:47] [Server thread/INFO]: nuzhxt joined the game
+[15:11:49] [Server thread/INFO]: RamaSai2519[/104.28.233.88:29948] logged in with entity id 4974 at (-693.1751129530177, 80.11963424962933, 238.62712678772976)
+[15:11:49] [Server thread/INFO]: RamaSai2519 joined the game
+[15:15:28] [Server thread/INFO]: RamaSai2519 fell out of the world
+[15:16:50] [Server thread/INFO]: nuzhxt lost connection: Disconnected
+[15:16:50] [Server thread/INFO]: nuzhxt left the game
+[15:16:54] [Server thread/INFO]: nuzhxt[/104.28.233.88:58127] logged in with entity id 8200 at (61.30000001192093, 26.0, -218.28518939159207)
+[15:16:54] [Server thread/INFO]: nuzhxt joined the game
+[15:17:01] [Server thread/INFO]: RamaSai2519 has made the advancement [Acquire Hardware]
+[15:18:21] [Server thread/INFO]: nuzhxt fell out of the world
+[15:21:57] [Server thread/INFO]: nuzhxt has made the advancement [Acquire Hardware]
+[16:16:07] [Server thread/INFO]: RamaSai2519 has made the advancement [Ol' Betsy]
+[16:18:55] [Server thread/INFO]: RamaSai2519 has made the advancement [Stone Age]
+[16:27:02] [Server thread/INFO]: nuzhxt has made the advancement [Sweet Dreams]
+[16:40:53] [Server thread/INFO]: nuzhxt has made the advancement [Stone Age]
+[16:58:12] [Server thread/INFO]: RamaSai2519 has made the advancement [Sweet Dreams]
