@@ -1,0 +1,29 @@
+[19:16:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:16:49] [ServerMain/INFO]: Loaded 1370 recipes
+[19:16:49] [ServerMain/INFO]: Loaded 1481 advancements
+[19:16:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:16:49] [Server thread/INFO]: Loading properties
+[19:16:49] [Server thread/INFO]: Default game type: SURVIVAL
+[19:16:49] [Server thread/INFO]: Generating keypair
+[19:16:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:16:49] [Server thread/INFO]: Using default channel type
+[19:16:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:16:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:16:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:16:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:16:49] [Server thread/INFO]: Preparing level "world"
+[19:16:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:16:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:16:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[19:16:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:16:50] [Server thread/INFO]: Time elapsed: 1029 ms
+[19:16:50] [Server thread/INFO]: Done (1.123s)! For help, type "help"
+[19:17:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:18:15] [Server thread/INFO]: nuzhxt[/127.0.0.1:53506] logged in with entity id 8 at (8.5, 65.0, -0.5)
+[19:18:15] [Server thread/INFO]: nuzhxt joined the game
+[19:23:37] [Server thread/INFO]: nuzhxt was doomed to fall by Pillager
+[19:24:56] [Server thread/INFO]: nuzhxt lost connection: Disconnected
+[19:24:56] [Server thread/INFO]: nuzhxt left the game
+[19:25:00] [Server thread/INFO]: nuzhxt[/127.0.0.1:53551] logged in with entity id 1558 at (5.5, 66.0, 9.5)
+[19:25:00] [Server thread/INFO]: nuzhxt joined the game
+[19:27:41] [Server thread/INFO]: nuzhxt was shot by Pillager
